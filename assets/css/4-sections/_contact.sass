@@ -1,19 +1,25 @@
 #contact
 	@include tile
-	
+
+	header
+		@include header-menu
+
+		.nav-toggle
+			@include nav-toggle
+
 	.wrapper
 		@include wrapper
 		flex-direction: column
 		justify-content: center
-		
+
 		.blurb
 			max-width: 950px
 			margin-top: -45px
 			text-align: center
-			
+
 			h2
 				@include heading
-				
+
 			p
 				margin-bottom: 45px
 				
