@@ -11,3 +11,13 @@ Home: riquadro a tutta pagina con un video in loop dentro. Sovrapposto a video s
 Pagina portfolio: elenco progetti, un titolo per progetto e immagini sotto al titolo
 Foto messe stile pagina https://www.pexels.com/it-it/cerca/galleria/
 Se clicchi su foto la ingrandisci
+
+
+
+
+
+
+
+
+npm install -g sass
+sass --watch assets/css/main.sass assets/css/main.css

@@ -621,10 +621,19 @@ svg path {
   width: 55%;
   align-self: flex-end;
   line-height: 0;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #hero .wrapper .photographer img {
   width: 100%;
   opacity: 0.95;
+}
+#hero .wrapper .photographer video {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 @media (max-width: 1023px) {
   #hero .wrapper .welcome {
