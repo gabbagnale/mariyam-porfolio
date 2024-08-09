@@ -1,0 +1,13 @@
+template: https://www.free-css.com/free-css-templates/page289/apollo
+No su singola pagina ma fare sezioni su pagine diverse
+ok menu a quel modo
+Pagine:
+- home
+- portfolio (galleria progetti)
+- cv
+
+
+Home: riquadro a tutta pagina con un video in loop dentro. Sovrapposto a video sulla sinistra metti una scritta
+Pagina portfolio: elenco progetti, un titolo per progetto e immagini sotto al titolo
+Foto messe stile pagina https://www.pexels.com/it-it/cerca/galleria/
+Se clicchi su foto la ingrandisci
